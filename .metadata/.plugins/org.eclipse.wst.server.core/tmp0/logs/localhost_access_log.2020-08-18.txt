@@ -1,0 +1,14 @@
+127.0.0.1 - - [18/Aug/2020:02:42:47 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:02:42:48 +0700] "GET /JSP-Servlet-JDBC-Initial/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:02:42:48 +0700] "GET /JSP-Servlet-JDBC-Initial/trang-chu HTTP/1.1" 200 8536
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:02:42:48 +0700] "GET /JSP-Servlet-JDBC-Initial/template/web/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:02:42:48 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:02:44:49 +0700] "POST /JSP-Servlet-JDBC-Initial/api-admin-new HTTP/1.1" 200 -
+127.0.0.1 - - [18/Aug/2020:18:27:51 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:18:27:52 +0700] "GET /JSP-Servlet-JDBC-Initial/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:18:27:52 +0700] "GET /JSP-Servlet-JDBC-Initial/trang-chu HTTP/1.1" 200 8536
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:18:27:52 +0700] "GET /JSP-Servlet-JDBC-Initial/template/web/css/style.css HTTP/1.1" 200 196
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:18:27:52 +0700] "GET /JSP-Servlet-JDBC-Initial/template/web/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 160403
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:18:27:52 +0700] "GET /JSP-Servlet-JDBC-Initial/template/web/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 81084
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:18:27:52 +0700] "GET /JSP-Servlet-JDBC-Initial/template/web/jquery/jquery.min.js HTTP/1.1" 200 89476
+0:0:0:0:0:0:0:1 - - [18/Aug/2020:18:27:52 +0700] "GET /favicon.ico HTTP/1.1" 404 762

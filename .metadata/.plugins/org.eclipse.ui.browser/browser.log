@@ -1,0 +1,31 @@
+
+Sep 10, 2020 09:05:03.339 NEW SESSION
+Sep 10, 2020 09:05:03.339 [5032:11676:0910/090503.292:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+
+Sep 10, 2020 09:09:22.996 NEW SESSION
+Sep 10, 2020 09:09:22.996 [5504:13696:0910/090922.996:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+
+Sep 15, 2020 03:34:24.169 NEW SESSION
+Sep 15, 2020 03:34:24.169 [3712:3908:0915/033424.168:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+Sep 15, 2020 03:38:32.320 [5388:7196:0915/033832.320:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+
+Sep 20, 2020 04:04:38.804 NEW SESSION
+Sep 20, 2020 04:04:38.805 [6612:3760:0920/040438.802:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+
+Oct 08, 2020 07:46:18.991 NEW SESSION
+Oct 08, 2020 07:46:18.991 [12840:3312:1008/074618.989:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+Oct 08, 2020 07:53:11.214 [12840:6884:1008/075311.214:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 08, 2020 08:11:00.128 [12840:6884:1008/081100.127:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 08, 2020 08:11:03.325 [12840:6884:1008/081103.325:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 08, 2020 08:11:24.352 [12840:6884:1008/081124.351:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 08, 2020 08:12:48.720 [12840:6884:1008/081248.720:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 08, 2020 08:12:51.908 [12840:6884:1008/081251.908:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 08, 2020 08:17:43.77 [12840:6884:1008/081743.077:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 08, 2020 08:17:46.256 [12840:6884:1008/081746.255:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 08, 2020 08:18:12.283 [12840:6884:1008/081812.282:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 08, 2020 08:19:09.138 [12840:6884:1008/081909.138:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 08, 2020 08:20:41.171 [12840:6884:1008/082041.170:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 08, 2020 08:23:41.493 [12840:6884:1008/082341.493:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 08, 2020 08:29:51.957 [12840:6884:1008/082951.957:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 08, 2020 08:39:51.968 [12840:6884:1008/083951.968:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 08, 2020 08:43:36.817 [12840:6884:1008/084336.816:ERROR:socket_stream.cc(219)] Closing stream with result -2

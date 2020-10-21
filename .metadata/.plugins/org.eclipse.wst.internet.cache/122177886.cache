@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<!-- start : Framework/HomePage -->
+	<!-- start : ocom/common/global/components/framework/head -->
+<head>
+	<!-- start : ocom/common/global/components/head -->
+		<title>Oracle | Integrated Cloud Applications and Platform Services</title>
+		<meta name="Title" content="Oracle | Integrated Cloud Applications and Platform Services">
+	
+			<meta name="Description" content="Oracle offers a comprehensive and fully integrated stack of cloud applications and platform services.">
+		
+	<meta name="Keywords" content="enterprise, applications, software, database, middleware, fusions, business, hardware, Oracle, AA01">
+	
+	<meta name="siteid" content="us">
+	<meta name="countryid" content="US">
+	<meta name="robots" content="index, follow">
+	<meta name="country" content="United States">
+	<meta name="Language" content="en">
+	<meta name="Updated Date" content="2020-06-24T18:11:46Z">
+	
+	<script type="text/javascript">
+		var pageData = pageData || {};
+		//page info
+		pageData.pageInfo = pageData.pageInfo || {};
+		pageData.pageInfo.language = "en";
+		pageData.pageInfo.country = "United States";
+		pageData.pageInfo.pageTitle = "Oracle | Integrated Cloud Applications and Platform Services";
+		pageData.pageInfo.description = "Oracle offers a comprehensive and fully integrated stack of cloud applications and platform services.";
+		pageData.pageInfo.keywords = "enterprise, applications, software, database, middleware, fusions, business, hardware, Oracle, AA01";
+		pageData.pageInfo.siteId = "us";
+		pageData.pageInfo.countryId = "US";
+		pageData.pageInfo.updatedDate = "2020-06-24T18:11:46Z";
+	</script>
+	<!-- start : ocom/common/global/components/seo-taxonomy-meta-data-->
+	
+	<script type="text/javascript">
+		var pageData = pageData || {};
+		//taxonmy
+		pageData.taxonomy = pageData.taxonomy || {};
+		pageData.taxonomy.productServices = [];
+		pageData.taxonomy.industry = [];
+		pageData.taxonomy.region = [];
+		pageData.taxonomy.contentType = [];
+		pageData.taxonomy.buyersJourney = [];
+		pageData.taxonomy.revenue = [];
+		pageData.taxonomy.title = [];
+		pageData.taxonomy.audience = [];
+		pageData.taxonomy.persona = [];
+	</script>
+<!-- end : ocom/common/global/components/seo-taxonomy-meta-data-->
+<!-- start : ocom/common/global/components/social-media-meta-tags -->
+<!-- end : ocom/common/global/components/social-media-meta-tags -->
+<!-- start : ocom/common/global/components/seo-hreflang-meta-tags --><link rel="canonical" href="https://www.oracle.com/index.html" />
+					<link rel="alternate" hreflang="en-AE" href="https://www.oracle.com/ae/index.html" />
+					
+					<link rel="alternate" hreflang="ar-AE" href="https://www.oracle.com/ae-ar/index.html" />
+					
+					<link rel="alternate" hreflang="es-AR" href="https://www.oracle.com/ar/index.html" />
+					
+					<link rel="alternate" hreflang="en-AU" href="https://www.oracle.com/au/index.html" />
+					
+					<link rel="alternate" hreflang="en-BE" href="https://www.oracle.com/be/index.html" />
+					
+					<link rel="alternate" hreflang="pt-BR" href="https://www.oracle.com/br/index.html" />
+					
+					<link rel="alternate" hreflang="en-CA" href="https://www.oracle.com/ca-en/index.html" />
+					
+					<link rel="alternate" hreflang="fr-CA" href="https://www.oracle.com/ca-fr/index.html" />
+					
+					<link rel="alternate" hreflang="de-CH" href="https://www.oracle.com/ch-de/index.html" />
+					
+					<link rel="alternate" hreflang="fr-CH" href="https://www.oracle.com/ch-fr/index.html" />
+					
+					<link rel="alternate" hreflang="es-CL" href="https://www.oracle.com/cl/index.html" />
+					
+					<link rel="alternate" hreflang="zh-CN" href="https://www.oracle.com/cn/index.html" />
+					
+					<link rel="alternate" hreflang="es-CO" href="https://www.oracle.com/co/index.html" />
+					
+					<link rel="alternate" hreflang="cs-CZ" href="https://www.oracle.com/cz/index.html" />
+					
+					<link rel="alternate" hreflang="de-DE" href="https://www.oracle.com/de/index.html" />
+					
+					<link rel="alternate" hreflang="en-US" href="https://www.oracle.com/index.html" />
+					
+					<link rel="alternate" hreflang="es-ES" href="https://www.oracle.com/es/index.html" />
+					
+					<link rel="alternate" hreflang="fr-FR" href="https://www.oracle.com/fr/index.html" />
+					
+					<link rel="alternate" hreflang="en-HK" href="https://www.oracle.com/hk/index.html" />
+					
+					<link rel="alternate" hreflang="en-ID" href="https://www.oracle.com/id/index.html" />
+					
+					<link rel="alternate" hreflang="en-IE" href="https://www.oracle.com/ie/index.html" />
+					
+					<link rel="alternate" hreflang="en-IN" href="https://www.oracle.com/in/index.html" />
+					
+					<link rel="alternate" hreflang="it-IT" href="https://www.oracle.com/it/index.html" />
+					
+					<link rel="alternate" hreflang="ja-JP" href="https://www.oracle.com/jp/index.html" />
+					
+					<link rel="alternate" hreflang="ko-KR" href="https://www.oracle.com/kr/index.html" />
+					
+					<link rel="alternate" hreflang="es-MX" href="https://www.oracle.com/mx/index.html" />
+					
+					<link rel="alternate" hreflang="nl-NL" href="https://www.oracle.com/nl/index.html" />
+					
+					<link rel="alternate" hreflang="en-PH" href="https://www.oracle.com/ph/index.html" />
+					
+					<link rel="alternate" hreflang="pl-PL" href="https://www.oracle.com/pl/index.html" />
+					
+					<link rel="alternate" hreflang="ro-RO" href="https://www.oracle.com/ro/index.html" />
+					
+					<link rel="alternate" hreflang="ru-RU" href="https://www.oracle.com/ru/index.html" />
+					
+					<link rel="alternate" hreflang="en-SA" href="https://www.oracle.com/sa/index.html" />
+					
+					<link rel="alternate" hreflang="ar-SA" href="https://www.oracle.com/sa-ar/index.html" />
+					
+					<link rel="alternate" hreflang="sv-SE" href="https://www.oracle.com/se/index.html" />
+					
+					<link rel="alternate" hreflang="en-SG" href="https://www.oracle.com/sg/index.html" />
+					
+					<link rel="alternate" hreflang="sk-SK" href="https://www.oracle.com/sk/index.html" />
+					
+					<link rel="alternate" hreflang="tr-TR" href="https://www.oracle.com/tr/index.html" />
+					
+					<link rel="alternate" hreflang="zh-TW" href="https://www.oracle.com/tw/index.html" />
+					
+					<link rel="alternate" hreflang="en-GB" href="https://www.oracle.com/uk/index.html" />
+					
+					<link rel="alternate" hreflang="en-ZA" href="https://www.oracle.com/za/index.html" />
+					
+					<meta name="altpages" content="ae,ae-ar,ar,au,be,br,ca-en,ca-fr,ch-de,ch-fr,cl,cn,co,cz,de,es,fr,hk,id,ie,in,it,jp,kr,mx,nl,ph,pl,ro,ru,sa,sa-ar,se,sg,sk,tr,tw,uk,za">
+					<script type="text/javascript">
+						var pageData = pageData || {};
+						//page info
+						pageData.pageInfo = pageData.pageInfo || {};
+						pageData.pageInfo.altPages = "ae,ae-ar,ar,au,be,br,ca-en,ca-fr,ch-de,ch-fr,cl,cn,co,cz,de,es,fr,hk,id,ie,in,it,jp,kr,mx,nl,ph,pl,ro,ru,sa,sa-ar,se,sg,sk,tr,tw,uk,za";
+					</script>
+				<!-- end : ocom/common/global/components/seo-hreflang-meta-tags -->
+
+	<!-- end : ocom/common/global/components/head -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<!-- start : ocom/common/global/components/framework/layoutAssetHeadInfo -->
+<!-- Container/Display Start -->
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+	<!-- BEGIN CSS/JS -->
+	<script>
+		!function(){
+			var d=document.documentElement;d.className=d.className.replace(/no-js/,'js');
+			if(document.location.href.indexOf('betamode=') > -1) document.write('<script src="/asset/web/js/ocom-betamode.js"><\/script>');
+		}();
+	</script>
+<link data-wscss href="https://www.oracle.com/asset/web/css/redwood-base.css" rel="preload" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
+	<noscript>
+		<link href="https://www.oracle.com/asset/web/css/redwood-base.css" rel="stylesheet">
+	</noscript>
+	<link data-wsjs data-reqjq href="https://www.oracle.com/asset/web/js/redwood-base.js" rel="preload" as="script">
+	<script data-wsjs src="https://www.oracle.com/asset/web/js/jquery-min.js" async onload="$('head link[data-reqjq][rel=preload]').each(function(){var a = document.createElement('script');a.async=false;a.src=$(this).attr('href');this.parentNode.insertBefore(a, this);});$(function(){$('script[data-reqjq][data-src]').each(function(){this.async=true;this.src=$(this).data('src');});});"></script>
+	<!-- END CSS/JS -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+<!-- Container/Display end -->
+
+<!-- Container/Display Start -->
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+ <!-- www-us HeadAdminContainer -->
+<link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-32.png" sizes="32x32">
+<link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-128.png" sizes="128x128">
+<link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-120.png" sizes="120x120">
+<link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-152.png" sizes="152x152">
+<link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-180.png" sizes="180x180">
+<meta name="msapplication-TileColor" content="#fcfbfa"/>
+<meta name="msapplication-square70x70logo" content="favicon-128.png"/>
+<meta name="msapplication-square150x150logo" content="favicon-270.png"/>
+<meta name="msapplication-TileImage" content="favicon-270.png"/>
+<meta name="msapplication-config" content="none"/>
+  <style>
+  #oReactiveChatContainer1 { display:none;}
+  </style>
+  <!--DTM embed code - Header -->
+  <script src="//assets.adobedtm.com/6f37a0dc9cdbe818dc4979828b58b88e3f060ea4/satelliteLib-e598c5b61e39a10b402e048e87dd27b0f1cd2d4c.js"></script>
+ 
+ <!--End-->
+
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+<!-- Container/Display end -->
+
+
+<!-- end : ocom/common/global/components/framework/layoutAssetHeadInfo -->
+
+
+
+  <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"true","rua.cpush":"true","rua.upre":"true","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"SJ-f72be5dc-0783-44ce-8f5a-0acc2f4ef3b7","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false"}]);</script>
+  <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DXNLE-YBWWY-AR74T-WMD99-77VRA",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(c){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"DXNLE-YBWWY-AR74T-WMD99-77VRA";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n="true"=="true"?1:0,t="",a="w5ioyhvyk6c6gxzkp7kq-f-36aff3dbf-clientnsv4-s.akamaihd.net",i={"ak.v":"28","ak.cp":"82485","ak.ai":parseInt("604074",10),"ak.ol":"0","ak.cr":28,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1b413de9","ak.r":28182,"ak.a2":n,"ak.m":"dscx","ak.n":"essl","ak.bpcip":"183.80.236.0","ak.cport":5993,"ak.gh":"184.28.218.197","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1596620757","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==/aNvhJ8rkXfbCLzHbjqeHscQe795ggRxwlfVhjGO1UOqAQCjob9KQHGYoPBGElfW+sCGj1HFqBk6kY6cneKq5giPznXJ9mGuhyR+xFv8mI5l3E7v/3KD/ft6k75YvzlToXb2MpgmGnS7F0XzacpOt/NMsUg0/ZtCatDo6vOHNcOanXadlSiYyJhwRHcwrUda1Yq78zo1dgbOU7+5Bw81TSLSNb/1DiTJh+6ojnQWFOwrCDGRAiLNSHS6ybiW00hDhwrpUIVuluarE7TuaMHFrb0Pz5VpBe12N0SJeEK8RrbRxqBK/NGmdSqwVZcBh1ipgr7pOfqHLFcaiFBpjpyzckv3aMIJh8amZFDGE6WxbMmN8aPYvZbRUEWXtffalUW33y/I3ER/BaqRRFRA/38PndKtj7ULqfhCEUmhBCRQgzY=","ak.pv":"110","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!o.i){var e=BOOMR.subscribe;e("before_beacon",o.av,null,null),e("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><!-- end : ocom/common/global/components/framework/head --><!-- start : ocom/common/global/components/framework/layoutAssetStartBodyInfo -->
+	<body class="f20 f20v0 f20home" style="opacity:0">
+
+		
+<!-- Container/Display Start -->
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- www-us StartBodyAdminContainer -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+<!-- Container/Display end -->
+
+
+		<div class="f20w1">
+
+			
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- U28v1 -->
+<section class="u28 u28v1 u28adj" id="u28" data-trackas="header">
+	<div class="u28w1">
+		<div class="cwidth">
+			<div class="u28s1" id="u28s1">
+				<a class="u28home rw-logo" href="/" tabindex=1 data-lbl="logo">home</a>
+				<a class="u28ham" href="/universal-menu/" tabindex=2 data-lbl="menu">nav</a>
+			</div>
+			<div class="u28s2">
+				<div class="u28w2">
+					<form name="askoracle" id="askoracle" class="askoracle" data-contentpaths="/content/Web/Shared/Auto-Suggest Panel Event" method="get" action="/search/results">
+						<input type="hidden" name="Nty" value="1">
+						<input type="hidden" name="Dy" value="1">
+						<input type="hidden" name="Ntk" value="SI-ALL5">
+						<input type="hidden" name="cty" value="us">
+						<input type="hidden" name="lang" value="en">
+						<div class="u28w3">
+							<div class="u28logo rw-logo">
+								<span>Oracle</span>
+							</div>
+							<a class="u28-back rw-cv-left" href="#back">
+								<span>Close</span>
+							</a>
+							<a class="u28-searchicon" href="#search">
+								<span>Search</span>
+							</a>
+							<span class="u28input">
+								<input id="askoracleinput" name="Ntt" value="" data-prefix="Ask" placeholder="Ask" autocomplete="off" role="combobox" aria-label="Search Oracle.com" tabindex=3>
+								<span class="u28submit">
+									<input class="u28searchbttn" tabindex="0" type="submit" value="Submit Search">
+								</span>
+							</span>
+						</div>
+					</form>
+				</div>
+
+			</div>
+
+			<nav class="u28s4">
+				<a class="u28search u28navitm" id="u28search" href="#" data-lbl="o-search-menu"><span>Search</span></a>
+				<a href="#" data-lbl="o-products-menu" data-target="products" class="u28navitm">Products</a>
+				<a href="#" data-lbl="o-resources-menu" data-target="resources" class="u28navitm">Resources</a>
+				<a href="#" data-lbl="o-support-menu" data-target="support" class="u28navitm">Support</a>
+			</nav>
+
+			<div class="u28s3" id="u28s3">
+
+				<div class="u28-profile">
+					<a href="#" class="u28prof" data-lbl="sign-in-account" tabindex=4><div class="acttxt">View Accounts</div><span>Sign In</span></a>
+					<div class="u28-profilew1">
+					<span class="u28actbck u28back">Back</span>
+						<span class="u28acttitle">Oracle Account</span>
+						<ul class="u28l-out">
+							<li><a href="https://www.oracle.com/webapps/redirect/signon?nexturl=" data-lbl="profile:sign-in-account" class="u28btn1">Sign-In</a></li>
+							<li><a href="https://profile.oracle.com/myprofile/account/create-account.jspx" data-lbl="profile:create-account" class="u28btn2">Create an Account</a></li>
+						</ul>
+						<ul class="u28l-in">
+							<li><a href="/corporate/contact/help.html" data-lbl="help">Help</a></li>
+							<li><a href="javascript:sso_sign_out();" id="u28pfile-sout" data-lbl="signout">Sign Out</a></li>
+						</ul>
+						<div class="u28-profilew2">
+							<span class="u28acttitle">Cloud Account</span>
+							<a href="/cloud/sign-in.html" class="u28cloudbg" data-lbl="go-to-cloud-website">Sign in to Cloud</a>
+							<a href="/cloud/free/?source=:ow:o:h:nav:OHP0625ViewAccountsButton&intcmp=:ow:o:h:nav:OHP0625ViewAccountsButton" class="u28btn2" data-lbl="cta-0625-nav-header-accounts-free-tier-oci">Sign Up for Cloud Free Tier</a></li>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<div class="u28w4" id="u28w4">
+		<div class="u28w1a u28w5 clstrgt">
+			<div class="u28w6">
+
+				<!-- Search Results -->
+				<div class="u28w8 u28trgt"></div>
+				<div class="u28w9">
+					<div class="u28result u28noresults">
+						<div class="u28rw1">
+							<div class="u28rw2">
+								<h4>No results found</h4>
+								<p>Your search did not match any results.</p>
+								<p>We suggest you try the following to help find what you&rsquo;re looking for:</p>
+								<ul class="u28w7a">
+									<li>Check the spelling of your keyword search.</li>
+									<li>Use synonyms for the keyword you typed, for example, try &ldquo;application&rdquo; instead of &ldquo;software.&rdquo;</li>
+									<li>Try one of the popular searches shown below.</li>
+									<li>Start a new search.</li>
+								</ul>
+								<h5>Trending Questions</h5>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+
+	<nav id="u28nav" class="u28nav" data-trackas="menu">
+		<a href="#close" class="mnavback u28back icn-close">Close</a>
+	</nav>
+
+</section>
+<!-- /U28v1 -->
+
+
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+<!-- end : ocom/common/global/components/framework/layoutAssetStartBodyInfo -->
+
+					<!-- Home Page Widget - 1 -->
+					
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RH02v0 -->
+<section class="rh02 rh02v0 pghero" data-trackas="rh02" data-ocomid="rh02" data-backlbl="Back">
+	<div class="rh02w1">
+
+		<div class="rh02panel rh02p1" data-trackas="panel1:infra">
+			<div class="rh02w2 darktheme">
+				<div class="rh02w3">
+
+					<button class="rh02-pcontent">
+						<h2 class="rh02-ttl">Oracle Cloud <b>Infrastructure</b></h2>
+						<div class="rh02-sub">Low data networking fees and automated migration</div>
+						<div class="rh02-leadin">
+							<p>Oracle Cloud Infrastructure platform is built for enterprises that are looking for higher performance computing with easy migration of their on-premises applications to the Cloud.</p>
+						</div>
+					</button>
+
+					<div class="rh02w4">
+						<div class="rh02-cta">
+							<div class="obttns">
+								<div><a href="/cloud/" data-lbl="cta-0912:button:cloud-infracturure">Products overview</a></div>
+								<div class="obttn1"><a href="/cloud/sign-in.html?intcmp=OHPpanel1" data-lbl="cta-112219-cloud-sign-in">Sign in</a></div>
+								<div class="obttn1"><a href="/cloud/free/?source=:ow:o:h:po:OHPPanel1nav0625&intcmp=:ow:o:h:po:OHPPanel1nav0625" data-lbl="cta-0625-panel1-nav-button-free-tier-oci">Try Free Tier</a></div>								
+							</div>
+						</div>
+
+						<div class="rh02-xcontent">
+							
+							<div class="rh02head"><h5>Featured</h5></div>
+							<div class="rh02link">
+								<h3>Cloud Research</h3>
+								<a href="/cloud/accelerates-with-urgency/" data-lbl="cta-0731-panel1-pos1-research-cloud-accel-oci">Cloud Helps Firms Accelerate With Urgency, Boosts Security</a>
+								<p style="font-color:white;">More than half of companies have migrated most mission-critical workloads to the cloud.</p>
+							</div>
+
+							<div class="rh02link">
+								<h3>Enterprise Blockchain</h3>
+								<a href="https://blogs.oracle.com/blockchain/announcing-the-next-generation-of-oracle-blockchain-platform-cloud-service" data-lbl="cta-0724-panel1-pos2-blog-prod-release-blockchain-oci">Oracle Blockchain Platform Increases Resilience, Availability</a>
+								<p style="font-color:white;">New cloud service release delivers more predictable pricing, better recoverability by deploying components across three availability domains.</p>
+							</div>
+							
+							<div class="rh02link">
+								<h3>Customer Success</h3>
+								<a href="/customers/fedex.html" data-lbl="cta-0717-panel1-pos3-cust-fedex-oci">FedEx Delivers Corporate Transformation by Leveraging Oracle Cloud</a>
+								<p style="font-color:white;">Increases speed to market 2X; 30,000 employees use Oracle Analytics Cloud to make data-driven decisions.</p>
+							</div>
+
+							
+							
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		
+		<div class="rh02panel rh02p2" data-trackas="panel2:apps">
+			<div class="rh02w2 darktheme">
+				<div class="rh02w3">
+
+					<button class="rh02-pcontent">
+						<h2 class="rh02-ttl">Cloud <b>Applications</b></h2>
+						<div class="rh02-sub">Complete suite of integrated apps</div>
+						<div class="rh02-leadin">
+							<p>Streamline your business processes. With ERP Financials, Procurement, and more, you can increase productivity, lower costs, and improve controls.</p>
+						</div>
+					</button>
+
+					<div class="rh02w4">
+						<div class="rh02-cta">
+							<div class="obttns">
+								<div><a href="/applications/" data-lbl="cta-0912:button:cloud-applications">Cloud Applications overview</a></div>
+							</div>
+						</div>
+
+						<div class="rh02-xcontent">
+							
+							<div class="rh02head"><h5>Featured</h5></div>
+
+							<div class="rh02link">
+								<h3>Customer Voice</h3>
+								<a href="https://blogs.oracle.com/modernfinance/make-transformational-quick-pivots-with-cloud" data-lbl="cta-0731-panel2-pos1-blog-cust-westdig-cio-cloud-apps">Western Digital CIO: Cloud Enables Transformational &lsquo;Quick Pivots&rsquo;</a>
+								<p style="font-color:white;">Guest blogger Steve Philpott says a unified and collaborative global cloud has helped the company remain flexible and agile.</p>
+							</div>
+							<div class="rh02link">
+								<h3>Virtual Event</h3>
+								<a href="/corporate/events/virtual-summits/cloud-cx/" data-lbl="cta-0724-panel2-pos2-cloud-cx-virtual-event">Learn How to Reimagine CX with Personalized Marketing</a>
+								<p style="font-color:white;">Customers, Oracle execs will show how to use data and analytics to unlock customer insights. Oracle Cloud CX Virtual Summit, Aug. 6, 9 am PT.</p>
+							</div>
+							
+							
+							<div class="rh02link">
+								<h3>Finance Management</h3>
+								<a href="/news/announcement/blog/oracle-helps-finance-teams-return-to-growth-071420.html" data-lbl="cta-0715-panel2-pos3-pr-news-corp-updates-erp-epm-apps">Oracle Fusion Cloud ERP, EPM Updates Help Finance to Drive Growth</a>
+								<p style="font-color:white;">New features leverage AI, digital assistants, and analytics to increase productivity and improve cost controls for finance organizations.</p>
+							</div>
+
+							
+							
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="rh02panel rh02p3 rh02carousel rh02random"  data-auto="5" data-trackas="panel3:about">
+
+			<div class="rh02w2 darktheme" data-bgimg="/a/ocom/img/rh02-nih-covid-pos1.jpg" data-bgimg2x="/a/ocom/img/rh02-nih-covid-pos1-2x.jpg">
+				<div class="rh02w3">
+					<div class="rh02-pcontent">
+						<h2 class="rh02-ttl rh02-longttl">Help fight COVID-19: Volunteer for a vaccine clinical trial today</h2>
+						<div class="rh02-leadin"> 
+						<p> Phase 3 of the US clinical trials to evaluate vaccines has begun. We&rsquo;re proud to support the NIH Coronavirus Prevention Network (CoVPN) in its goal of registering a million volunteers for large-scale testing.</p>
+						</div>
+						
+						<div class="rh02-cta">
+							<div class="obttns">
+								<div><a href="/corporate/covid-19/research/" data-lbl="cta-0730-panel1-slide1-covid-page-pr-corp">Learn more</a></div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+			
+			<div class="rh02w2 darktheme" data-bgimg="/a/ocom/img/rh02-developer-live-db.png" data-bgimg2x="/a/ocom/img/rh02-developer-live-db-2x.png">
+				<div class="rh02w3">
+				
+					<div class="rh02-pcontent">
+						<h2 class="rh02-ttl rh02-longttl">Register for Oracle Developer Live&mdash;Oracle Database, Aug. 13 and Aug. 18</h2>
+						<div class="rh02-leadin">
+							<p>Join Oracle Executive VP Juan R. Loaiza&rsquo;s Keynote: The Future is Data-Driven, and learn how to harness Oracle Database to build data-driven applications.</p>
+						</div>
+						
+						<div class="rh02-cta">
+							<div class="obttns">
+								<div><a href="https://developer.oracle.com/developer-live/database/?xd_co_f=MjBiM2NmNDUzNWI0YjA3N2YwYTE1NzU5MzM1MzI1MzE=&source=:ow:o:h:feb::RC_WWMK200701P00098:DevLiveDatabase_OcomBanner" data-lbl="cta-0716-panel3-slide2-events-live-dev-tech">Register now</a></div>
+								
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+			
+			<div class="rh02w2 darktheme" data-bgimg="/a/ocom/img/rh02-windmill.jpg" data-bgimg2x="/a/ocom/img/rh02-windmill-2x.jpg">
+				<div class="rh02w3">
+			
+			 		<div class="rh02-pcontent">
+				 		<h2 class="rh02-ttl rh02-longttl">National Grid analyzes weather 40% better on Oracle Cloud</h2> 
+				 		<div class="rh02-leadin"> 
+					 		<p>Machine learning (ML) helps energy firm improve forecasting accuracy so it can better leverage wind and solar to lower its carbon footprint. </p>
+				 		</div> 
+				 		<div class="rh02-cta"> 
+							
+							<div class="obttns"> 
+								<div><a href="?bcid=6162028629001" rel="vbox" data-lbl="cta-0730-panel3-slide3-button1-video-cust-natlgrid-oci">Watch National Grid video (1:40)</a></div><br />
+								<div class="obttn1"><a href="/customers/national-grid-eso.html" data-lbl="cta-0730-panel3-slide3-button2-story-cust-natlgrid-oci">Read the story</a></div>
+								
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			
+			<!--<div class="rh02w2 darktheme" data-bgimg="/a/ocom/img/rh02-erp.jpg" data-bgimg2x="/a/ocom/img/rh02-erp-2x.jpg">
+				<div class="rh02w3">
+				
+					<div class="rh02-pcontent">
+						<h2 class="rh02-ttl rh02-longttl">Oracle Recognized as the only Leader in Gartner&rsquo;s 2020 Magic Quadrant for Cloud ERP for Product-Centric Enterprises for a Second Time</h2>
+						<div class="rh02-leadin">
+							<p>Positioning driven by completeness of vision and ability to execute.</p>
+						</div>
+						
+						<div class="rh02-cta">
+							<div class="obttns">
+								<div><a href="https://www.gartner.com/reprints/?id=1-1ZB5DHBV&ct=200624&st=sb" data-lbl="cta-0721-panel3-slide4-analyst-gartner-mq-prod-centric-erp-apps">Get the details</a></div>
+								
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>-->
+			
+			<div class="rh02w2 darktheme" data-bgimg="/a/ocom/img/rh02-cloud-trial.jpg" data-bgimg2x="/a/ocom/img/rh02-cloud-trial-2x.jpg">
+				<div class="rh02w3">
+
+					<div class="rh02-pcontent">
+						<h2 class="rh02-ttl rh02-longttl">New&mdash;Oracle Cloud Free Tier</h2>
+						<div class="rh02-leadin"> 
+							<p>Oracle Cloud Free Tier lets anyone build, test, and deploy applications on Oracle Cloud-for free. Sign up once, get access to two free offers.</p>
+						</div>
+						<div class="rh02-cta">
+							<div class="obttns">
+								<div><a href="/cloud/free/?source=:ow:o:h:po::OHP0701CTR&intcmp=:ow:o:h:po::OHP0701CTR" data-lbl="cta-0701-panel3-pos4-free-tier-ctr">Start your trial today</a></div>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			
+			<div class="rh02w2 darktheme" data-bgimg="/a/ocom/img/rh02-about-sansoverlay.jpg" data-bgimg2x="/a/ocom/img/rh02-about-sansoverlay-2x.jpg"> 
+		 		<div class="rh02w3"> 
+
+			 		<div class="rh02-pcontent"> 
+				 		<h2 class="rh02-ttl">About <b class="ologo">Oracle</b></h2> 
+				 		<div class="rh02-sub">Unlock endless possibilities</div> 
+				 		<div class="rh02-leadin"> 
+					 		<p>A culture of innovation has propelled Oracle since its inception. Today, thanks to exceptional people, we lead the market in autonomous, cloud, and applications technologies.</p> 
+				 		</div> 
+				 		<div class="rh02-cta"> 
+					 		<div class="obttns"> 
+						 		<div><a href="/corporate/" data-lbl="cta-010320-panel3-slide5-about-mission">Our mission</a></div> 
+					 		</div> 
+				 		</div> 
+			 		</div> 
+		 		</div> 
+	 		</div>
+			
+
+
+		</div>
+	</div>
+</section>
+
+<!-- /RH02v0 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+					<!-- Home Page Widget - 2 -->
+					
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!--Organization Schema Markup -->
+<script type="application/ld+json">
+{"@context" : "http://schema.org",
+"@type" : "Organization",
+"name" : "Oracle Corporation",
+"url" : "https://www.oracle.com/",
+"logo": "https://www.oracle.com/webfolder/s/brand/assets/i/specimens/identity/logo/primary-badge.gif",
+"sameAs" : ["https://www.facebook.com/Oracle","https://www.twitter.com/Oracle","https://plus.google.com/+Oracle","https://www.linkedin.com/company/oracle","https://www.instagram.com/oracle/","https://www.youtube.com/user/Oracle"],
+"contactPoint" : [
+{ "@type" : "ContactPoint",
+"telephone" : "+1-800-392-2999",
+"contactType" : "customer service",
+"contactOption" : "TollFree",
+"areaServed" : "US"} ,
+{"@type" : "ContactPoint",
+"telephone" : "+1-800-223-1711",
+"contactType" : "technical support",
+"contactOption" : "TollFree" ,
+"areaServed" : "US"} ,
+{"@type" : "ContactPoint",
+"telephone" : "+1-800-633-0738",
+"contactType" : "sales",
+"contactOption" : "TollFree" ,
+"areaServed" : "US"} ]
+}
+</script>
+<!--End Organization Schema Markup-->
+
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- start : ocom/common/global/components/compass/related-widgets -->
+<!-- end : ocom/common/global/components/compass/related-widgets -->
+<!-- start : ocom/common/global/components/framework/layoutAssetEndBodyInfo -->
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- U10v0 -->
+<div id="u10" class="u10 u10v6" data-trackas="ffooter" data-ocomid="u10">
+	<div class="u10w1">
+		
+<div class="u10w2">
+<div class="u10w3">
+<h5>Resources for</h5>
+<ul>
+<li><a data-lbl="resources-for:developers" href="https://developer.oracle.com/">Developers</a></li>
+<li><a data-lbl="resources-for:startups" href="/startup/">Startups</a></li>
+<li><a data-lbl="resources-for:students-educators" href="https://academy.oracle.com/en/oa-web-overview.html">Students and Educators</a></li>
+</ul>
+</div>
+</div>
+
+<div class="u10w2">
+<div class="u10w3">
+<h5>Partners</h5>
+<ul>
+<li><a data-lbl="partners:oracle-partnernetwork-ocom" href="/partnernetwork/">Oracle PartnerNetwork</a></li>
+<li><a data-lbl="partners:find-a-partner" href="https://partner-finder.oracle.com/">Find a Partner</a></li>
+<li><a data-lbl="partners:login-opn" href="/opn/index.html">Log in to OPN</a></li>
+</ul>
+</div>
+</div>	
+
+<div class="u10w2">
+<div class="u10w3">
+<h5>Solutions</h5>
+<ul>
+<li><a data-lbl="emerging-technlogy:artificial-intelligence" href="/artificial-intelligence/">Artificial Intelligence</a></li>
+<li><a data-lbl="emerging-technlogy:internet-of-things" href="/internet-of-things/">Internet of Things</a></li>
+<li><a data-lbl="emerging-technlogy:blockchain" href="/blockchain/">Blockchain</a></li>
+</ul>
+</div>
+</div>
+
+<div class="u10w2">
+<div class="u10w3">
+<h5>What&rsquo;s New</h5>
+<ul>
+<li><a data-lbl="whatsnew:covid-19" href="/corporate/covid-19.html">Oracle&rsquo;s response to COVID-19</a></li>
+<li><a data-lbl="whatsnew:java-14-downloads" href="/java/technologies/javase-downloads.html">Java SE14 download</a></li>
+<li><a data-lbl="whatsnew:cloud-trial" href="/cloud/free/?source=:ow:o:h:nav:050120SiteFooter&intcmp=:ow:o:h:nav:050120SiteFooter">Try Oracle Cloud Free Tier</a></li>
+
+
+</ul>
+</div>
+</div>
+
+
+<div class="u10w2">
+<div class="u10w3">
+<h5>Contact Us</h5>
+<ul>
+<li><a href="tel:18006330738">US Sales: +1.800.633.0738</a></li>
+<li><a data-lbl="contact-us:how-can-we-help" href="/corporate/contact/">How can we help?</a></li>
+<!--<li><a data-lbl="contact-us:support-directory" href="/support/contact.html">Support Directory</a></li>-->
+<li><a data-lbl="contact-us:subscribe-to-emails" href="https://go.oracle.com/subscriptions">Subscribe to emails</a></li>
+</ul>
+</div>
+</div>
+
+<div class="u10w4">
+<hr />
+</div>
+<div class="u10w5" data-trackas="footer">
+<ul class="scl-icons">
+<li class="scl-facebook"><a data-lbl="scl-icon:facebook" href="https://www.facebook.com/Oracle/" title="Oracle on Facebook">Facebook</a></li>
+<li class="scl-twitter"><a data-lbl="scl-icon:twitter" href="https://twitter.com/oracle" title="Follow Oracle on Twitter">Twitter</a></li>
+<li class="scl-linkedin"><a data-lbl="scl-icon:linkedin" href="https://www.linkedin.com/company/oracle/" title="Oracle on LinkedIn">LinkedIn</a></li>
+<li class="scl-youtube"><a data-lbl="scl-icon:you-tube" href="http://www.youtube.com/oracle/" title="Watch Oracle on YouTube">YouTube</a></li>
+</ul>
+
+<div class="u10-ologo"><a data-lbl="integrated-cloud-applications-and-platform-services" href="/">Oracle</a></div>
+<h3>Integrated Cloud Applications &amp; Platform Services</h3>
+
+<ul class="u10-links">
+<li><a data-lbl="copyright" href="/legal/copyright.html">&copy; 2020 Oracle</a></li>
+<li><a data-lbl="site-map" href="/sitemap.html">Site Map</a></li>
+<li><a data-lbl="privacy" href="/legal/privacy/">Privacy</a><span>/</span><a data-lbl="do-not-sell-my-info" href="/legal/privacy/privacy-choices.html">Do Not Sell My Info</a></li>
+<li class="u10mtool" id="u10cmenu"><a data-lbl="country-region" class="u10ticon u10regn" href="/universal-menu/index.html#u10countrymenu">Country/Region</a></li>
+<li><div id="teconsent"></div></li>
+<li><a data-lbl="ad-choices" href="/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html#adchoices">Ad Choices</a></li>
+<li><a data-lbl="careers" href="/corporate/careers/">Careers</a></li>
+</ul>
+
+</div>
+</div>
+</div>
+<!-- /U10v0 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+	</div>
+
+	
+<!-- Container/Display Start -->
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- Start SiteCatalyst code -->
+ <script data-reqjq async="async" language="JavaScript" data-src="https://www.oracleimg.com/us/assets/metrics/ora_ocom_hp.js"></script>
+ <!-- End SiteCatalyst code -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+<!-- Container/Display end -->
+
+<!-- Container/Display Start -->
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- OCOM HomePage EndBodyAdminContainer --> 
+<!--DTM embed code - Footer -->
+<script type="text/javascript">_satellite.pageBottom();</script>
+<!--End-->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+<!-- Container/Display end -->
+
+
+<!-- end : ocom/common/global/components/framework/layoutAssetEndBodyInfo -->
+
+
+	</body>
+	<!-- end : Framework/HomePage -->
+</html>

@@ -1,0 +1,19 @@
+INDEX VERSION 1.131
+D:\JAVA WEB TIN TUC - JSP SERVLET JDBC\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2878676753.index
+\JSP-Servlet-JDBC-Initial\src\main\java
+D:\JAVA WEB TIN TUC - JSP SERVLET JDBC\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\797347737.index
+\JSP-Servlet-JDBC-Initial\src\main\java
+D:\JAVA WEB TIN TUC - JSP SERVLET JDBC\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\285167216.index
+\JSP-Servlet-JDBC-Initial\src\main\java
+D:\JAVA WEB TIN TUC - JSP SERVLET JDBC\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2937374118.index
+\JSP-Servlet-JDBC-Initial\src\main\java
+D:\JAVA WEB TIN TUC - JSP SERVLET JDBC\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3022533383.index
+\JSP-Servlet-JDBC-Initial\src\main\java
+D:\JAVA WEB TIN TUC - JSP SERVLET JDBC\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2294000270.index
+\JSP-Servlet-JDBC-Initial\src\main\java
+D:\JAVA WEB TIN TUC - JSP SERVLET JDBC\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1683486226.index
+\JSP-Servlet-JDBC-Initial\src\main\java
+D:\JAVA WEB TIN TUC - JSP SERVLET JDBC\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\639923081.index
+\JSP-Servlet-JDBC-Initial\src\main\java
+D:\JAVA WEB TIN TUC - JSP SERVLET JDBC\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\40077753.index
+\JSP-Servlet-JDBC-Initial\src\main\java

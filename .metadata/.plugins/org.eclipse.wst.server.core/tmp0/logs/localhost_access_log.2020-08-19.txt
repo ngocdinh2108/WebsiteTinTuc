@@ -1,0 +1,8 @@
+127.0.0.1 - - [19/Aug/2020:00:33:24 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:00:33:24 +0700] "GET /JSP-Servlet-JDBC-Initial/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:00:33:24 +0700] "GET /JSP-Servlet-JDBC-Initial/trang-chu HTTP/1.1" 200 8536
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:00:33:24 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [19/Aug/2020:02:05:05 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:02:05:06 +0700] "GET /JSP-Servlet-JDBC-Initial/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:02:05:06 +0700] "GET /JSP-Servlet-JDBC-Initial/trang-chu HTTP/1.1" 200 8536
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:02:05:36 +0700] "POST /JSP-Servlet-JDBC-Initial/api-admin-new HTTP/1.1" 200 187
